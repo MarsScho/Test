@@ -1,1 +1,1 @@
-this is a teset project
+this is a test project
